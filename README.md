@@ -2,7 +2,7 @@
 
 Contribution to the open source project [Creative Theme](http://startbootstrap.com/template-overviews/creative/). See my branches for each feature added.
 
-## Contributions
+## Contributions by Branch
 
 ### auto-type
 
